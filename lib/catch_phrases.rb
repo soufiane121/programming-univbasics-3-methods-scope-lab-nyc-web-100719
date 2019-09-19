@@ -13,5 +13,5 @@ def link
 end
 
 def has_phrase(phrase)
-puts phrase
+ phrase
 end
