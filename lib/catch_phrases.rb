@@ -5,5 +5,5 @@ def mario
 end
 
 def toadstool
-  puts status
+  puts mario.status
 end
